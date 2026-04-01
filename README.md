@@ -3,7 +3,7 @@
 
 > A compact autonomous robot that navigates by sound — not vision.
 
-**Authors:** Adriana Crina Moraru & Elena Florentina Moraru  
+**Authors:** Elena Florentina Moraru & Adriana Crina Moraru 
 **Year:** 2025
 
 ---
