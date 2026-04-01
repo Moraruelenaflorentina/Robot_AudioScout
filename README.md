@@ -114,6 +114,7 @@ After researching working projects online, the approach was completely redesigne
 - Crucially, **MAX4466 has no AGC (Automatic Gain Control)**, unlike the MAX9814. The AGC was the root cause of failure — it automatically equalized gain levels, making it impossible to detect which side received a stronger signal.
 
 With fixed placement and no AGC, the robot successfully navigates toward a sound source.
+> <img width="2048" height="1747" alt="image" src="https://github.com/user-attachments/assets/f141146d-9610-4940-a0dc-68ca59ebc31e" />
 
 ---
 
